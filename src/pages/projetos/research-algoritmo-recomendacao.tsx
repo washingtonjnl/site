@@ -61,6 +61,20 @@ const Home: NextPage = () => {
           <ContentSection>
             <Type hierarchy="h2">Análise do problema</Type>
             <Type>
+              Em uma plataforma de streaming de videos, garantir que os
+              espectadores permaneçam engajados, satisfeitos e promotores da
+              marca é crucial para a manutenção do negócio. Quanto mais
+              assinantes, mais a plataforma tem recursos para negociar com os
+              estúdios de cinema os direitos de transmissão dos lançamentos no
+              mercado.
+            </Type>
+            <Type>
+              Uma das formas de manter os clientes satisfeitos é oferecendo um
+              catálogo especial, com os títulos que aquela pessoa gosta, de
+              forma fácil para que o esforço cognitivo ao iniciar esse período
+              de lazer seja mínimo.
+            </Type>
+            <Type>
               No momento, os rankings dos filmes na plataforma são atualizados
               manualmente pela equipe de conteúdo. Por conta dessa limitação,
               existem poucas listas dessa categoria e elas só são atualizadas
@@ -186,17 +200,18 @@ const Home: NextPage = () => {
               Pesquisa: Identificação dos rankings na plataforma
             </Type>
             <Type>
-              Para acompanhar durante a utilização da plataforma as interações
-              com os rankings e analisar se as pessoas conseguiriam diferenciar
-              os novos trilhos de filmes ranqueados de outros filmes na
-              plataforma, foram realizados testes de usabilidades comparando a
-              plataforma atual com uma versão atualizada (que continha os
-              rankings modificados).
+              Para acompanhar as interações com os rankings durante a utilização
+              da plataforma e analisar se as pessoas conseguiriam diferenciar os
+              novos trilhos de filmes ranqueados de outros filmes na plataforma,
+              foram realizados testes de usabilidades comparando a plataforma
+              atual com uma versão atualizada (que continha os rankings
+              modificados).
             </Type>
             <Type>
-              Realizamos seis rodadas com assinantes nos dois cenários. O
-              intuito foi entender as diferenças e semelhanças na escolha do
-              filme antes e depois das modificações visuais idealizadas.
+              Realizamos seis rodadas com assinantes dividos entre os dois
+              cenários. O intuito foi entender as diferenças e semelhanças na
+              escolha do filme antes e depois das modificações visuais
+              idealizadas.
             </Type>
             <Type>
               Ao fim dos testes, fizemos uma momento qualitativo para, a partir
@@ -206,8 +221,8 @@ const Home: NextPage = () => {
             <Type>
               Com essas duas análises, conseguimos{" "}
               <b>
-                aumentar nosso entendimento do racional por trás da escolha do
-                filme.
+                aumentar nosso entendimento sobre o raciocínio por trás da
+                escolha do filme.
               </b>
             </Type>
           </ContentSection>
@@ -217,18 +232,17 @@ const Home: NextPage = () => {
               Pesquisa: Relevância entre as temáticas de ranqueamento
             </Type>
             <Type>
-              Preparamos uma segunda cerimônia de Card Sorting para que os
-              usuários pudessem priorizar de forma aberta quais temáticas
-              (dentre as já mapeadas pelos dados da plataforma).
+              Preparamos uma segunda cerimônia de Card Sorting para identificar
+              quais temáticas eram as mais interessantes de se encontrar num
+              ranking.
             </Type>
             <Type>
-              Solicitamos aos usuários que organizassem, em ordem crescente de
-              relevância, 13 possíveis rankings que surgiram a partir da
-              inception tática.
+              Orientamos os participantes para organizar, em ordem crescente de
+              relevância, 13 possíveis rankings que surgiram a partir da análise
+              dos dados da plataforma feita na inception tática.
             </Type>
             <Type>
-              O objetivo foi entender quais temáticas eram as mais interessantes
-              de se encontrar num ranking. Ou seja, quais gêneros/assuntos a
+              Ou seja, com isso, foi possível estimar quais gêneros/assuntos a
               pessoa se interessava, mas normalmente tinha dificuldade de
               escolher o que asssistir.
             </Type>

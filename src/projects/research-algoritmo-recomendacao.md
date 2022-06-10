@@ -12,6 +12,10 @@ tags: [User Research, Interface Design]
 ## _Ideação de algoritmo para recomendação de filmes utilizando técnicas de User Research e Product Planning._
 
 ## Análise do problema
+Em uma plataforma de streaming de videos, garantir que os espectadores permaneçam engajados, satisfeitos e promotores da marca é crucial para a manutenção do negócio. Quanto mais assinantes, mais a plataforma tem recursos para negociar com os estúdios de cinema os direitos de transmissão dos lançamentos no mercado.
+
+Uma das formas de manter os clientes satisfeitos é oferecendo um catálogo especial, com os títulos que aquela pessoa gosta, de forma fácil para que o esforço cognitivo ao iniciar esse período de lazer seja mínimo.
+
 No momento, os rankings dos filmes na plataforma são atualizados manualmente pela equipe de conteúdo. Por conta dessa limitação, existem poucas listas dessa categoria e elas só são atualizadas semanalmente. Isso gera um **alto custo operacional e pouca flexibilidade** para recomendações específicas.
 
 Em pesquisas anteriores (KANO e NPS), os usuários já confirmaram a importância de recomendações específicas dentro da plataforma como um fator relevante nos momentos de escolha do conteúdo. Além disso, a falta de um sistema de recomendação mais preciso também é um elemento detrator em comparação com outros serviços de streaming.
@@ -45,20 +49,20 @@ Enquanto product designer, fiquei responsável pelo planejamento do estudo que t
 * Preparação dos artefatos para pesquisa;
 
 ## Pesquisa: Identificação dos rankings na plataforma
-Para acompanhar durante a utilização da plataforma as interações com os rankings e analisar se as pessoas conseguiriam diferenciar os novos trilhos de filmes ranqueados de outros filmes na plataforma, foram realizados testes de usabilidades comparando a plataforma atual com uma versão atualizada (que continha os rankings modificados).
+Para acompanhar as interações com os rankings durante a utilização da plataforma e analisar se as pessoas conseguiriam diferenciar os novos trilhos de filmes ranqueados de outros filmes na plataforma, foram realizados testes de usabilidades comparando a plataforma atual com uma versão atualizada (que continha os rankings modificados).
 
-Realizamos seis rodadas com assinantes nos dois cenários. O intuito foi entender as diferenças e semelhanças na escolha do filme antes e depois das modificações visuais idealizadas.
+Realizamos seis rodadas com assinantes dividos entre os dois cenários. O intuito foi entender as diferenças e semelhanças na escolha do filme antes e depois das modificações visuais idealizadas.
 
 Ao fim dos testes, fizemos uma momento qualitativo para, a partir das dúvidas dos usuários, aprofundar nosso conhecimento sobre as decisões tomadas nas interações mais relevantes.
 
-Com essas duas análises, conseguimos **aumentar nosso entendimento do racional por trás da escolha do filme.**
+Com essas duas análises, conseguimos **aumentar nosso entendimento sobre o raciocínio por trás da escolha do filme.**
 
 ## Pesquisa: Relevância entre as temáticas de ranqueamento
-Preparamos uma segunda cerimônia de Card Sorting para que os usuários pudessem priorizar de forma aberta quais temáticas (dentre as já mapeadas pelos dados da plataforma).
+Preparamos uma segunda cerimônia de Card Sorting para identificar quais temáticas eram as mais interessantes de se encontrar num ranking.
 
-Solicitamos aos usuários que organizassem, em ordem crescente de relevância, 13 possíveis rankings que surgiram a partir da inception tática.
+Orientamos os participantes para organizar, em ordem crescente de relevância, 13 possíveis rankings que surgiram a partir da análise dos dados da plataforma feita na inception tática.
 
-O objetivo foi entender quais temáticas eram as mais interessantes de se encontrar num ranking. Ou seja, quais gêneros/assuntos a pessoa se interessava, mas normalmente tinha dificuldade de escolher o que asssistir.
+Ou seja, com isso, foi possível estimar quais gêneros/assuntos a pessoa se interessava, mas normalmente tinha dificuldade de escolher o que asssistir.
 
 ## Normalização e análise dos dados
 A partir dos testes e entrevistas qualitativas, pontuamos os principais comportamentos e opiniões a realacionados aos rankings.
