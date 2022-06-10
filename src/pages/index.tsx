@@ -20,6 +20,7 @@ const Home: NextPage = () => {
     <Layout>
       <Head>
         <title>Washington Junior | Product Designer</title>
+        <meta name="title" content="Washington Junior | Product Designer" />
         <meta
           name="description"
           content="Sou designer e desenvolvedor autodidata, estudante de publicidade na UFRJ e amante da tecnologia e inovação."

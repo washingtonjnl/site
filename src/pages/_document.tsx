@@ -41,7 +41,33 @@ export default class MyDocument extends Document {
       <Html lang="pt">
         <Head>
           <meta charSet="utf-8" />
+
+          <meta property="og:type" content="website" />
+          <meta property="og:url" content="https://www.washingtonjunior.com/" />
+          <meta
+            property="og:title"
+            content="Washington Junior | Product Designer"
+          />
+          <meta
+            property="og:description"
+            content="Sou designer e desenvolvedor autodidata, estudante de publicidade na UFRJ e amante da tecnologia e inovação."
+          />
           <meta property="og:image" content="/og-img.jpg" />
+
+          <meta property="twitter:card" content="summary_large_image" />
+          <meta
+            property="twitter:url"
+            content="https://www.washingtonjunior.com/"
+          />
+          <meta
+            property="twitter:title"
+            content="Washington Junior | Product Designer"
+          />
+          <meta
+            property="twitter:description"
+            content="Sou designer e desenvolvedor autodidata, estudante de publicidade na UFRJ e amante da tecnologia e inovação."
+          />
+          <meta property="twitter:image" content="/og-img.jpg" />
 
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link

@@ -24,6 +24,10 @@ const Home: NextPage = () => {
             User Research em algoritmo de recomendação | Washington Junior
           </title>
           <meta
+            name="title"
+            content="User Research em algoritmo de recomendação | Washington Junior"
+          />
+          <meta
             name="description"
             content="Ideação de algoritmo para recomendação de filmes utilizando técnicas de User Research e Product Planning."
           />
