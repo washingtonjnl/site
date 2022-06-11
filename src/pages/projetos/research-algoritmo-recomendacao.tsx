@@ -19,19 +19,17 @@ const Home: NextPage = () => {
   return (
     <Layout>
       <Head>
-        <Head>
-          <title>
-            User Research em algoritmo de recomendação | Washington Junior
-          </title>
-          <meta
-            name="title"
-            content="User Research em algoritmo de recomendação | Washington Junior"
-          />
-          <meta
-            name="description"
-            content="Ideação de algoritmo para recomendação de filmes utilizando técnicas de User Research e Product Planning."
-          />
-        </Head>
+        <title>
+          User Research em algoritmo de recomendação | Washington Junior
+        </title>
+        <meta
+          name="title"
+          content="User Research em algoritmo de recomendação | Washington Junior"
+        />
+        <meta
+          name="description"
+          content="Ideação de algoritmo para recomendação de filmes utilizando técnicas de User Research e Product Planning."
+        />
       </Head>
 
       <Header side="left" />

@@ -12,17 +12,12 @@ const Home: NextPage = () => {
   return (
     <Layout>
       <Head>
-        <Head>
-          <title>Um pouco sobre a mim | Washington Junior</title>
-          <meta
-            name="title"
-            content="Um pouco sobre a mim | Washington Junior"
-          />
-          <meta
-            name="description"
-            content="Conheça um pouco da minha história e como cheguei até aqui. Vamos fazer a diferença usando design?"
-          />
-        </Head>
+        <title>Um pouco sobre a mim | Washington Junior</title>
+        <meta name="title" content="Um pouco sobre a mim | Washington Junior" />
+        <meta
+          name="description"
+          content="Conheça um pouco da minha história e como cheguei até aqui. Vamos fazer a diferença usando design?"
+        />
       </Head>
 
       <Header side="left" />
