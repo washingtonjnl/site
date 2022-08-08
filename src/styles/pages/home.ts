@@ -54,7 +54,7 @@ export const SocialInfo = styled.div`
   }
 
   @media (min-width: 769px) {
-    grid-template-columns: 0.85fr 1fr;
+    grid-template-columns: 0.8fr 1fr;
     column-gap: 24px;
     row-gap: 16px;
 
