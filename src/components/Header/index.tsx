@@ -17,7 +17,7 @@ export const Header = ({ side }: Props) => {
         <Link href="/sobre">
           <NavButton>Sobre mim</NavButton>
         </Link>
-        <NavButton href="/curriculo.pdf" target="_blank">
+        <NavButton href="/curriculo_washington_junior.pdf" target="_blank">
           Currículo
         </NavButton>
       </Navigation>
